@@ -3,7 +3,7 @@ Display Recent Earthquakes using Java Processing Library
 Concepts used in this Project:
 1. Java Processing Library to build the GUI to display the earthquake related information on the world map
 2. Classes and methods from the Unfolding maps library have been used to display the magnitude of the earthquakes along with the added capability to zoom the map to the desired location
-3. Java concepts used : Inheritance, Polymorphism, Conditional Loops, Iterators, Method Overriding and Binary Algorithms : Selection Sorts and Mystery Sort
+3. Java concepts used : Inheritance, Polymorphism, Conditional Loops, Iterators, Method Overriding and Sorting Algorithms : Selection Sorts and Mystery Sort
 
 
 
